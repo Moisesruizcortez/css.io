@@ -1,0 +1,14 @@
+.img-fluid {
+  position: relative;
+  top: -30px;
+  right: 50px;
+  object-fit: cover;
+}
+
+.img-fluid {
+  position: relative;
+  top: 16px;
+  right: 0px;
+  object-fit: cover;
+}
+
